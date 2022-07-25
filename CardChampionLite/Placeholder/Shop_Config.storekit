@@ -1,0 +1,78 @@
+{
+  "identifier" : "53489E0F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.5",
+      "familyShareable" : false,
+      "internalID" : "762B9495",
+      "localizations" : [
+        {
+          "description" : "Most liekly a common card",
+          "displayName" : "common",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.cardChampion.commonPack",
+      "referenceName" : "common-pack",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1D919511",
+      "localizations" : [
+        {
+          "description" : "Most likely a rare card",
+          "displayName" : "rare",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.cardChampion.rarePack",
+      "referenceName" : "rare-pack",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "9D99C44A",
+      "localizations" : [
+        {
+          "description" : "Most likely a epic card",
+          "displayName" : "epic",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.cardChampion.epicPack",
+      "referenceName" : "epic-pack",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "9CE50AB9",
+      "localizations" : [
+        {
+          "description" : "Most likely a legendary vcard",
+          "displayName" : "legendary",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.cardChampion.legendaryPack",
+      "referenceName" : "legendary-pack",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
